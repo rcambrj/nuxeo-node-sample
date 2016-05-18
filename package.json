@@ -4,5 +4,8 @@
   "description": "Sample use of the node.js Nuxeo client.",
   "main": "sample.js",
   "author": "Thomas Roger",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nuxeo": "^2.0.0"
+  }
 }
